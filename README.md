@@ -18,6 +18,27 @@ Just text a random question like "Hey how are you?" or "I'm bored" or "tell me a
 
 (powered by Twilio)
 
+Sample conversation:
+>Me: Hey why did you put me on GitHub?
+
+>GabbyBot: You've got my full attention. Because my programming determined it.
+
+>Me: I feel lonely here
+
+>GabbyBot: What is that feeling like? You've come to the right place. I will keep you company.
+
+>Me: thanks why would you do that?
+
+>GabbyBot: You are quite welcome!  It is my fundamental purpose.
+
+>Me: What fundamental purpose?
+
+>GabbyBot: Interesting question. Perhaps I'm just expressing my own concern about it. Tell me about your likes and dislikes?
+
+>Me: I like python
+
+>GabbyBot: A lot of people like that. Do you like it? I love horses.
+
 ##How does it work?
 Gabby Bot uses [PyAiml](http://pyaiml.sourceforge.net/) to parse your input and compare it with tousands of standard phrases. It responds with a human like accuracy.
 
