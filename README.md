@@ -11,10 +11,12 @@ Look no more, Gabby Bot is here to help!
 Gabby Bot is an advanced artificial intelligence that you can text and have a conversation with.
 
 ##How do I text her?
-Just text a random question like "Hey how are you?" or "I'm bored" or "tell me a joke". Anything to start a conversation
+Just text a random question like "Hey how are you?" or "I'm bored" or "tell me a joke". Anything to start a conversation:
 ```
 (732)875-1117
 ```
+
+(powered by Twilio)
 
 ##How does it work?
 Gabby Bot uses [PyAiml](http://pyaiml.sourceforge.net/) to parse your input and compare it with tousands of standard phrases. It responds with a human like accuracy.
