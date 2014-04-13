@@ -1,5 +1,7 @@
 *.pyc
 # don't include third-party dependencies.
-lib/
+lib/flask/
+lib/markupsafe/
+lib/werkzeug/
 !lib/README.md
 .DS_Store
