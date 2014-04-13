@@ -26,4 +26,7 @@ Gabby Bot is running on the powerful Google Apps Engine, wihch scales very well,
 Some networks are slow on Twilio (like Verizon), and some are pretty fast (AT&T). I have no control over it.
 
 
+[Tweet](https://twitter.com/home?status=Gabby%20Bot:%20you'll%20never%20have%20to%20pretend%20to%20text%20someone%20again:%20http://xiaoxu193.github.io/gabbybot/%20@xiaoxu0)
+
+
 
